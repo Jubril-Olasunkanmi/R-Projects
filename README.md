@@ -28,29 +28,29 @@ The dataset used in this project is `epid_data_with_continent.csv`, which contai
 ### Bar Plots
 
 1. **Cancer Incidence Rates by Continent and Type**
-   ![Bar Plot](images/bar_plot_continent_type.png)
+   
 
 2. **Top 10 Countries by Cancer Incidence Rate**
-   ![Bar Plot](images/bar_plot_top_10_countries.png)
+
 
 ### Scatter Plots with Regression Lines
 
 1. **Overall Scatter Plot**
-   ![Scatter Plot](images/scatter_plot_overall.png)
+   
 
 2. **Scatter Plot by Continent**
-   ![Scatter Plot](images/scatter_plot_by_continent.png)
+  
 
 3. **Scatter Plot for Top 10 Countries**
-   ![Scatter Plot](images/scatter_plot_top_10_countries.png)
+  
 
 ### Choropleth Maps
 
 1. **Global Cancer Incidence Rates**
-   ![World Map](images/world_map_global.png)
+ 
 
 2. **Cancer Incidence Rates by Continent**
-   ![World Map](images/world_map_continent.png)
+  
 
 ## Requirements
 
